@@ -1,6 +1,6 @@
 # Dotfiles Backup
 
-![logo](https://img.shields.io/badge/dotfiles-buliding-brightgreen.svg)
+[![logo](https://img.shields.io/badge/dotfiles-buliding-brightgreen.svg)(https://github.com/ketop)
 ## Categories
 There are many vim config project on Github, i choose spf13-vim. I use oh-my-zsh as my default login shell.
 and of course i use vim+tmux, which makes people love in terminal.
