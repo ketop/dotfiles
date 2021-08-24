@@ -1,4 +1,0 @@
-let g:spf13_edit_config_mapping = '<Leader>ev'
-let g:spf13_apply_config_mapping = '<Leader>sv'
-let g:airline_powerline_fonts = 1
-
